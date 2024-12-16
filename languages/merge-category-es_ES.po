@@ -1,0 +1,79 @@
+# Copyright (C) 2024 Daniel Valero González
+# This file is distributed under the same license as the Merge Category plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Merge Category 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/merge-category\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Español <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-16T19:29:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: merge-category\n"
+
+#. Plugin Name of the plugin
+msgid "Merge Category"
+msgstr "Combinar Categorías"
+
+#. Description of the plugin
+msgid "Plugin to merge WooCommerce categories."
+msgstr "Plugin para combinar categorías de WooCommerce."
+
+#. Author of the plugin
+msgid "Daniel Valero González"
+msgstr "Daniel Valero González"
+
+#: merge-category.php:29
+#: merge-category.php:30
+#: merge-category.php:41
+#: merge-category.php:117
+msgid "Merge Categories"
+msgstr "Combinar categorías"
+
+#: merge-category.php:103
+msgid "Merge WooCommerce Categories"
+msgstr "Combinar categorías de WooCommerce"
+
+#: merge-category.php:109
+msgid "Source Category"
+msgstr "Categoría de origen"
+
+#: merge-category.php:113
+msgid "Destination Category"
+msgstr "Categoría de destino"
+
+#: merge-category.php:122
+msgid "Detected categories to merge"
+msgstr "Categorías detectadas para combinar"
+
+#: merge-category.php:126
+msgid "Merge '%1$s' <i style=\"font-size: 10px;\">[%2$s]</i> (%3$d) ------------> '%4$s' <i style=\"font-size: 10px;\">[%5$s]</i> (%6$d)"
+msgstr "Combinar '%1$s' <i style=\"font-size: 10px;\">[%2$s]</i> (%3$d) ------------> '%4$s' <i style=\"font-size: 10px;\">[%5$s]</i> (%6$d)"
+
+#: merge-category.php:129
+msgid "Merge Selected Categories"
+msgstr "Combinar categorías seleccionadas"
+
+#: merge-category.php:131
+msgid "No categories detected for automatic merging."
+msgstr "No se han detectado categorías para combinar automáticamente."
+
+#: merge-category.php:140
+#: merge-category.php:195
+msgid "Categories merged successfully."
+msgstr "Categorías combinadas con éxito."
+
+#: merge-category.php:145
+msgid "The source and destination categories cannot be the same."
+msgstr "La categoría de origen y la de destino no pueden ser la misma."
+
+#: merge-category.php:150
+msgid "Please select two different categories."
+msgstr "Por favor, selecciona dos categorías diferentes."
+
+#: merge-category.php:200
+msgid "No categories selected for merging."
+msgstr "No se han seleccionado categorías para combinar."
